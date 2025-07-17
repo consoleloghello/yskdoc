@@ -1,0 +1,13 @@
+title: 综合题库文档
+theme: minima
+description: 地面火炬、给水加压泵站等设备题库
+plugins:
+     - jekyll-search
+collections:
+  ground_flare:
+    output: true
+    permalink: /ground-flare/:path/
+  water_pump:
+    output: true
+    permalink: /water-pump/:path/
+
