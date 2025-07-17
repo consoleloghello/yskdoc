@@ -1,8 +1,3 @@
----
-layout: page
-title: 地面火炬题库
-nav_order: 1
----
 
 # 地面火炬系统题库
 

@@ -1,8 +1,14 @@
-title: 综合题库文档
+title: 综合题库文档中心
 theme: minima
-description: 地面火炬、给水加压泵站等设备题库
+description: 题库查询系统
 plugins:
      - jekyll-search
+     - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 collections:
   ground_flare:
     output: true
